@@ -1,0 +1,9 @@
+Follow these steps to successfully run this project:
+- sign up on https://openai.com
+- get your api key from API-keys section
+- copy your api key into src/constants/index.js
+- run "npm install"
+- run "npx pod-install"
+- run "npm run start"
+
+Note: This is not tested on android, so you may run into some issues on android
