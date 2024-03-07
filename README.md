@@ -4,9 +4,7 @@ Developed with React Native, this voice assistant app receives voice commands fr
 
 
  # Preview
- ![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 23 18 14](https://github.com/yusufyaman07/voice_assistant/assets/148998418/b5e586ca-1235-4b32-8d10-e4e3186e4b1f)
-
- ![Simulator Screenshot - iPhone 15 Pro - 2024-03-06 at 23 18 24](https://github.com/yusufyaman07/voice_assistant/assets/148998418/996b7bc5-a7e5-4272-b38d-4793551f703a)
+![Jarvis](https://github.com/yusufyaman07/voice_assistant/assets/148998418/b626b6f1-c262-4703-a62d-9a392bd7e95a)
 
 
 
