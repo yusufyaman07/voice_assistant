@@ -11,7 +11,7 @@ const chatgptUrl = 'https://api.openai.com/v1/chat/completions';
 const dalleUrl = 'https://api.openai.com/v1/images/generations';
 
 export const apiCall = async (prompt, messages) => {
-  // // Logic 1 : this will check the prompt from chatgpt if user wants to create an image
+ 
   try {
     const res = await client.post(chatgptUrl, {
       model: 'gpt-3.5-turbo',
